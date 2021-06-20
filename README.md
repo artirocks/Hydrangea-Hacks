@@ -18,3 +18,4 @@ Descrption: There are two models
   Sample Output
   
 ![alt text](https://github.com/artirocks/Hydrangea-Hacks/blob/main/Covide%20Warrior/Output%20Demo/Screenshot%20(2106).png)
+![alt text](https://github.com/artirocks/Hydrangea-Hacks/blob/main/Covide%20Warrior/Output%20Demo/Screenshot%20(2107).png)
