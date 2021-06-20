@@ -14,3 +14,7 @@ Descrption: There are two models
 2. Machine Learning Model trained locally
   Dataset Used: https://www.kaggle.com/andrewmvd/face-mask-detection
   It is a image classifier model that can classify the faces as wearing mask, not wearing a mask and not wearing a mask properly. 
+  
+  Sample Output
+  
+![alt text](https://drive.google.com/file/d/1tRl6QoHgod_6OmnzUo2SfKShMQ6DYt41/view?usp=sharing)
