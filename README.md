@@ -17,4 +17,4 @@ Descrption: There are two models
   
   Sample Output
   
-![alt text](https://drive.google.com/file/d/1tRl6QoHgod_6OmnzUo2SfKShMQ6DYt41/view?usp=sharing)
+![alt text](https://github.com/artirocks/Hydrangea-Hacks/blob/main/Covide%20Warrior/Output%20Demo/Screenshot%20(2106).png)
